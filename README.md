@@ -1,6 +1,6 @@
 # Projeto 2 - Figma - Login
 
-<img src="./assets/print login.jpeg" alt="print-login">
+<img src="./assets/print login.jpeg" alt="print-login" width="250" >
 
 > Resultado do projeto - figma - Login da aula do Dev Club.
 ### Ajustes e melhorias
