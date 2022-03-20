@@ -1,24 +1,24 @@
-# Projeto 2 - Figma - Login
+# Project 2 - Figma - Login
 
 <img src="./assets/print login.jpeg" alt="print-login" width="250" >
 
-> Resultado do projeto - figma - Login da aula do Dev Club.
-### Ajustes e melhorias
+> Project result - figma - Dev Club class login.
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and the next updates will be focused on the following tasks:
 
-- [x] Criação do HTML
-- [x] Criação do CSS
-- [ ] Atualização do Layout
+- [x] HTML creation
+- [x] CSS creation
+- [ ] Layout Update
 
-## 🤝 Colaboradora
+## 🤝 Collaborator
 
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/minha imagem.jpeg" width="200px;" alt="Foto da isnaíra no GitHub"/><br>
+        <img src="./assets/minha imagem.jpeg" width="200px;" alt="Photo of Isnaíra on GitHub"/><br>
         <sub>
           <b>Isnaíra Souza</b>
         </sub>
